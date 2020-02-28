@@ -1,4 +1,8 @@
-# docker-repo
+#
+
+# Clone du repository git dans un répertoire nouvellement créé
+git clone https://github.com/chakouch/docker-repo
+cd docker-repo
 
 # Création de l'image Docker depuis le Dockerfile
 docker build -t projet/chabo .
